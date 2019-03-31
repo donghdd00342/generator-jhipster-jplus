@@ -1,0 +1,10 @@
+{
+  "generator-jhipster-module": {
+    "promptValues": {
+      "githubName": "donghdd00342",
+      "authorName": "Ho Dong",
+      "authorEmail": "donghd84@gmail.com",
+      "authorUrl": "https://donghd.com/"
+    }
+  }
+}
